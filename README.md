@@ -34,7 +34,7 @@ Se preferisci lavorare localmente sul tuo computer, puoi clonare il repository G
 
 1. Assicurati di avere Git installato sul tuo computer. Se non l'hai ancora installato, puoi scaricarlo dal sito ufficiale di Git.
 
-2. Clona il repository Git del workshop utilizzando il seguente comando nella tua linea di comando: `git clone [URL del repository Git]`
+2. Clona il repository Git del workshop utilizzando il seguente comando nella tua linea di comando: `git clone https://github.com/giuseppemastrandrea/p5js-workshop`
 
 3. Apri il progetto nella tua IDE preferita o in un editor di codice.
 
